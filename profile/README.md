@@ -28,6 +28,8 @@ worth listing — not before.
 ## Get in touch
 
 - Working with us on a Mukora build? Your usual contact is the fastest route.
+- Security: [security@simtabi.com](mailto:security@simtabi.com) — never a public issue.
+  See the [security policy](https://github.com/mukoracms/.github/security/policy).
 - Anything else: [opensource@simtabi.com](mailto:opensource@simtabi.com). A human
   reads it.
 
