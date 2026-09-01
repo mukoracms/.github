@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="mukoracms — Mukora CMS, a Laravel content platform by Simtabi">
+  <defs>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="400" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <circle cx="1185" cy="185" r="215" fill="url(#teal)" opacity="0.85"/>
+    <circle cx="985" cy="345" r="118" fill="none" stroke="url(#teal)" stroke-width="3" opacity="0.4"/>
+    <circle cx="920" cy="80" r="7" fill="#2DD4BF" opacity="0.7"/>
+    <text x="82" y="212" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2" fill="#E6E1DE">mukora<tspan fill="#2DD4BF">.</tspan></text>
+    <text x="85" y="272" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="29" fill="#8B8683">A Laravel content platform, built in parts.</text>
+  </g>
+</svg>
